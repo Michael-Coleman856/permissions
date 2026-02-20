@@ -34,7 +34,7 @@ For additional information on how these virtual machines were set up, visit [Cre
 
 <h2>- Step 1 - Log in to DC and Client VMs</h2>
 Note:
-This project uses a Domain Controller virtual machine and a client virtual machine that were previously set up on the project: </p>
+This project uses a Domain Controller virtual machine and a client virtual machine that were previously set up on the project:
 [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM) </p>
 
 The project will begin logged in to both the Domain Controller virtual machine and the Client-1 virtual machine. </p>
