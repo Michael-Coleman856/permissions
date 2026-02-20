@@ -1,4 +1,4 @@
-  <img src="https://raw.githubusercontent.com/tylergehm/permissions/main/permissions.jpg" alt="GitHub banner" style="max-width:100%;height:auto;" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/adc22d83-21f9-4ecd-9c80-9b22a387b2ab" />
 </p>
 <h1>Active Directory File Shares: Mastering Permissions with Security Groups</h1>
 This Azure Active Directory project explores role-based access control by creating shared folders with varying permissions assigned to domain-wide and specialized security groups. A standard user tests access from a client machine, verifying read-only, read/write, and restricted behaviors. A dedicated security group is then created and granted full control over a previously inaccessible folder; after adding the user to this group and re-authenticating, access is successfully granted, illustrating how Active Directory groups centrally manage file share permissions in an enterprise environment.<br />
