@@ -20,7 +20,7 @@ This Azure Active Directory project explores role-based access control by creati
 - Windows Server 2025 Virtual Machine configured as Domain Controller
 - Windows 11 Pro Virtual Machine configured as client
 
-For additional information on how these virtual machines were set up, visit [Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
+For additional information on how these virtual machines were set up, visit [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM)
 
 
 <h2>Project Steps</h2>
@@ -35,7 +35,7 @@ For additional information on how these virtual machines were set up, visit [Con
 <h2>- Step 1 - Log in to DC and Client VMs</h2>
 Note:
 This project uses a Domain Controller virtual machine and a client virtual machine that were previously set up on the project: </p>
-[Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad) </p>
+[Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM) </p>
 
 The project will begin logged in to both the Domain Controller virtual machine and the Client-1 virtual machine. </p>
 
